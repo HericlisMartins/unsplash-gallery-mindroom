@@ -1,3 +1,8 @@
+## stackblitz/github  
+
+https://github.com/HericlisMartins/unsplash-gallery-mindroom
+https://stackblitz.com/edit/stackblitz-starters-z4nykc
+
 ## HOW TO INSTALL
 
 After discompact to the chosen folder open it on terminal:
@@ -10,6 +15,7 @@ npm install
 
 the dependencies bellow should be installed and the app run.
 
+~~~javascript  
 dependencies: {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
@@ -24,3 +30,6 @@ dependencies: {
     "unsplash-js": "^7.0.18",
     "web-vitals": "^2.1.4"
   },
+~~~  
+
+
